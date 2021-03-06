@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SBSender": {
+      "commandName": "Project",
+      "commandLineArgs": "-c 2"
+    }
+  }
+}
